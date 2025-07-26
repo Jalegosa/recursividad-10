@@ -2,7 +2,7 @@ def contar_destinos_recursivo(lista_de_listas):
     if not lista_de_listas:
         return 0
     primero, *resto = lista_de_listas
-    return len(primero) + contar_destinos_recursivo(resto)
+    return len(primero) + contar_numeros_recursivo(resto)
 
 def contar_numeros(cant_numeros):
     if not cant_numeros:
