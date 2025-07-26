@@ -37,7 +37,7 @@ def suma_enteros(sumatoria):
                 elif opcion == '4':
                     self.suma_digitos()
                 elif opcion == '5':
-                    print("👋 Saliendo del sistema.")
+                    print("Saliendo del sistema.")
                     exit()
                 else:
                     print("No ha ingresado una opción incorrecta. Intente nuevamente")
