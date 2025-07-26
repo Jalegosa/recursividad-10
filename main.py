@@ -26,7 +26,7 @@ def suma_enteros(sumatoria):
                 print("5. Contar cuántos dígitos tiene un número")
                 print("6. Salir")
 
-                opcion = input("Seleccione una opción (1-5): ")
+                opcion = input("Seleccione una opción (1-6): ")
 
                 if opcion == '1':
                     self.invertir_cadena()
