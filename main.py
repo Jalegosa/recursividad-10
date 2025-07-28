@@ -1,3 +1,18 @@
+##==== MENÚ DE RETOS RECURSIVOS ====
+
+#1. Invertir una cadena de texto
+
+#2. Calcular la suma de los primeros N números naturales
+
+#3. Imprimir una cuenta regresiva desde N hasta 1
+
+#4. Sumar los dígitos de un número
+
+#5. Contar cuántos dígitos tiene un número
+
+#6. Salir
+
+
 def invertir_cadena(cadena):
     if len(cadena) == 0:
         return ""
